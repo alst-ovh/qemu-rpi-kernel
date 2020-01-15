@@ -1,0 +1,5 @@
+/linux
+/build-kernel-qemu.conf
+/kernel-qemu*
+/kernel-qemu*/*
+/versatile-pb.dtb
